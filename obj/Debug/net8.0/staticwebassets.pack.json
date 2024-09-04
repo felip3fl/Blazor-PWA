@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\obj\\Debug\\net8.0\\compressed\\lyiegf4oon.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AplicacaoWeb.styles.css",
+      "PackagePath": "staticwebassets\\AplicacaoWeb.styles.css"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "E:\\Blazor-PWA\\Source\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AplicacaoWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AplicacaoWeb.props",
+      "PackagePath": "build\\AplicacaoWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AplicacaoWeb.props",
+      "PackagePath": "buildMultiTargeting\\AplicacaoWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AplicacaoWeb.props",
+      "PackagePath": "buildTransitive\\AplicacaoWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
